@@ -1,1 +1,1 @@
-# favorite-color
+blue
